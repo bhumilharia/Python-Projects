@@ -1,1 +1,5 @@
-This repository hosts all the Python scripts I have written and plan to write
+Forked to extend @ankitdaf's project Phototime for adding features.
+
+To-do:
+1. Add a command-line argument for custom string addition to filenames
+2. Automating file-copy and sorting/organization
